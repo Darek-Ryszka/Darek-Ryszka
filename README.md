@@ -19,5 +19,7 @@
 * PyCharm<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/150px-PyCharm_Icon.svg.png" />
 * DBeaver<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" />
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dariusz-ryszka-36a631227#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dariusz-ryszka-36a631227#gh-dark-mode-only)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s180-rw" />
+Linkedin: https://www.linkedin.com/in/dariusz-ryszka-36a631227/
+
+
