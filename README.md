@@ -25,8 +25,8 @@
 <img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/150px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/256px-DBeaver_logo.svg.png?20210313151619" />
 
-<br />
-<br />
+<br>
+<br>
 
 ---
 
@@ -34,8 +34,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darek-Ryszka)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
+<br>
 
 ---
 
