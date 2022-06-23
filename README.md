@@ -2,12 +2,12 @@
 
 ## I'm Computer Science Student, Cyclist and Airedale terrier owner!
 
-- 🌱 I’m learning Python, Django and Docker
+- 🌱 I’m learning Python, Django and Docker.
 - 👯 Still discovering new stuff !
 - 🥅 2022 Goals: 
-- ⚡ Learn more about Python, Django, Docker and Linux
-- ⚡ Take the first steps in CSS, HTML
-- ⚡ Maybe JavaScript
+- ⚡ Learn more about Python, Django, Docker and Linux;
+- ⚡ Take the first steps in CSS, HTML;
+- ⚡ Maybe JavaScript;
 
 
 ---
