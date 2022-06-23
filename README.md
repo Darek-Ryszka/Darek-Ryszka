@@ -1,6 +1,6 @@
 # Hi there, I'm Darek 👋 
 
-## I'm Computer Science Student, Cyclist and Airedale Terrier owner !
+## I'm Computer Science Student, Cyclist and Airedale Terrier Owner !
 
 - 🌱 I’m learning Python, Django and Docker.
 - 👯 Still discovering new stuff !
