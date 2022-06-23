@@ -40,7 +40,7 @@
 ---
 
 ### Connect with me:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s180-rw" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s180-rw" />
 Linkedin: https://www.linkedin.com/in/dariusz-ryszka-36a631227/
 
 ---
