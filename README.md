@@ -11,11 +11,11 @@
 ## 🥅 2022 Goals:
 <div>
   <ul>
-    <li> ⚡ Learn more about Python - In progress </li>
-    <li> ⚡ Complete a Django and Flask courses - In progress </li>
-    <li> ⚡ Take the first steps in CSS and HTML - Done </li>
-    <li> ⚡ Become familiar with PostgreSQL - Done </li>
-    <li> ⚡ Practice the English language - In progress </li>
+    <li> ⚡ Learn more about Python - <b>In progress</b> </li>
+    <li> ⚡ Complete a Django and Flask courses - <b>In progress</b> </li>
+    <li> ⚡ Take the first steps in CSS and HTML - <b>Done</b> </li>
+    <li> ⚡ Become familiar with PostgreSQL - <b>Done</b> </li>
+    <li> ⚡ Practice the English language - <b>In progress</b> </li>
     <li> ⚡ Write the first Automated Test in Python with Selenium </li>
     <li> ⚡ Find a job in testing (QA) </li>
   </ul>
