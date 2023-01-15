@@ -1,6 +1,6 @@
 # Hi there, I'm Darek 👋 
 
-## I'm Computer Science Student, Cyclist and Airedale Terrier Owner !
+## I'm a C# .NET Intern, Computer Science Student, Cyclist and Airedale Terrier Owner !
 <div>
   <ul>
     <li> 🌱 I’m currently learning everything 🤣.</li>
@@ -8,16 +8,13 @@
   </ul>
 </div>
 
-## 🥅 2022 Goals:
+## 🥅 2023 Goals:
 <div>
   <ul>
-    <li> ⚡ Learn more about Python - <b>In progress</b> </li>
-    <li> ⚡ Complete a Django and Flask courses - <b>In progress</b> </li>
-    <li> ⚡ Take the first steps in CSS and HTML - <b>Done</b> </li>
-    <li> ⚡ Become familiar with PostgreSQL - <b>Done</b> </li>
+    <li> ⚡ Become a Junior Developer  <b></b> </li>
+    <li> ⚡ Learn more about C# and .NET - <b>In progress</b> </li>
+    <li> ⚡ Take the first steps in JavaScript  <b></b> </li>
     <li> ⚡ Practice the English language - <b>In progress</b> </li>
-    <li> ⚡ Write the first Automated Test in Python with Selenium </li>
-    <li> ⚡ Find a job in testing (QA) </li>
   </ul>
 </div>
 
@@ -44,8 +41,8 @@
 
 <div align="center">
   <a href="https://github.com/Darek-Ryszka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darek-Ryszka&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darek-Ryszka&layout=compact&langs_count=10&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darek-Ryszka&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Darek-Ryszka&layout=compact&langs_count=10&theme=gruvbox"/>
 </div>
 
 ---
