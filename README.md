@@ -1,26 +1,37 @@
 # Hi there, I'm Darek 👋 
 
-## I'm a C# .NET Intern, Computer Science Student, Cyclist and Airedale Terrier Owner !
-<div>
-  <ul>
-    <li> 🌱 I’m currently learning everything 🤣.</li>
-    <li> 👯 Still discovering new stuff !</li>
-  </ul>
-</div>
-
-## 🥅 2023 Goals:
-<div>
-  <ul>
-    <li> ⚡ Become a Junior Developer  <b></b> </li>
-    <li> ⚡ Learn more about C# and .NET - <b>In progress</b> </li>
-    <li> ⚡ Take the first steps in JavaScript  <b></b> </li>
-    <li> ⚡ Practice the English language - <b>In progress</b> </li>
-  </ul>
-</div>
+## 🙋‍♂️ About Me
+<a href="https://www.intelix.pl" target="_blank"><img src="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg" loading="lazy" srcset="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-500.jpg 500w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-800.jpg 800w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-1080.jpg 1080w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg 1200w" sizes="100vw" alt="Poznaj nas bliżej" class="image-3"></a>
+* 💼 Currently, I work as a Junior Developer at <a href="https://www.intelix.pl" target="_blank">**Intelix**</a>
+* 🌎 Originally from Poland 🇵🇱
+* 📚 I'm focused on enhancing my skills in **Python**, **C#**, and **JavaScript** to become a proficient Full Stack Developer.
+* ✨ I have a deep passion for cycling, and spending time with my Airedale Terrier is my joy.
+* 🏔️ Exploring mountains and hiking trails brings me immense joy and serenity.
+* 📖 I enjoy immersing myself in tech blogs and books, constantly expanding my knowledge horizon.
+* 🎮 Besides coding, you'll often find me exploring new cycling routes or playing video games with friends.
+* 💬 I'm always open to collaboration, networking, and mentorship opportunities. Feel free to connect and reach out.
+* 📝 You can contact me via email at **dariusz.ryszka0@gmail.com**
 
 ---
 
-### Languages and Tools:
+### 🎯 2024 Goals:
+- Master advanced concepts in Python, C#, and JavaScript.
+- Dive deeper into modern web development frameworks like React.
+- Contribute to open-source projects to expand my skill set and give back to the community.
+- Participate in at least one cycling event or race.
+
+Feel free to connect with me through the colorful buttons below to share insights, collaborate on projects, or just have a chat about tech or cycling! 😊
+
+---
+
+## 📞 Contact with me:
+<div>
+  <a href="https://www.linkedin.com/in/dariusz-ryszka-36a631227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+</div>
+
+## 🔧 Languages and Tools:
 <div style="display: inline_block">
   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
   <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
@@ -40,6 +51,7 @@
 
 ---
 
+## 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/Darek-Ryszka">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Darek-Ryszka&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -48,10 +60,3 @@
 
 ---
 
-### Contact with me:
-<div>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s180-rw" />
-  <a href="https://www.linkedin.com/in/dariusz-ryszka-36a631227/">Linkedin</a>
-</div>
-
----
