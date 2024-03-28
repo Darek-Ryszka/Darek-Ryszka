@@ -1,7 +1,7 @@
+<a href="https://www.intelix.pl" target="_blank"><img src="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg" loading="lazy" srcset="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-500.jpg 500w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-800.jpg 800w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-1080.jpg 1080w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg 1200w" sizes="100vw" alt="Poznaj nas bliżej" class="image-3"></a>
 # Hi there, I'm Darek 👋 
 
 ## 🙋‍♂️ About Me
-<a href="https://www.intelix.pl" target="_blank"><img src="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg" loading="lazy" srcset="https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-500.jpg 500w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-800.jpg 800w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas-p-1080.jpg 1080w, https://uploads-ssl.webflow.com/62fcb954a604ce1939190e0e/634b2b593b326945a3e9929f_img_onas.jpg 1200w" sizes="100vw" alt="Poznaj nas bliżej" class="image-3"></a>
 * 💼 Currently, I work as a Junior Developer at <a href="https://www.intelix.pl" target="_blank">**Intelix**</a>
 * 🌎 Originally from Poland 🇵🇱
 * 📚 I'm focused on enhancing my skills in **Python**, **C#**, and **JavaScript** to become a proficient Full Stack Developer.
